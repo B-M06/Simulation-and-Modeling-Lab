@@ -35,7 +35,7 @@ This lab is organized into four tasks, each building on the previous:
   
 3. Run all cells in order — each task's markdown header marks the start of that section.
 
-## 📊 Key Concepts Demonstrated
+## Key Concepts Demonstrated
 
 - **Element-wise math functions** on arrays and matrices (trigonometric, exponential, logarithmic, rounding)
 - **Index-aware reductions** using `np.argmax` / `np.argmin` with `np.unravel_index`
